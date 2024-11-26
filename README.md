@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React and Game development mostly in Unity but also Godot**
 
--I am currently the IT Administrator at T-RAX, a student association at Chalmers University of Technology. In this role, I maintain the IT systems we use, including our website.
+- 🦖I am currently the IT Administrator at T-RAX, a student association at Chalmers University of Technology. In this role, I maintain the IT systems we use, including our website.
 
 <p align="left">
 </p>
