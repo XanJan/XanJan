@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anna</h1>
-<h3 align="center">A passionate Software Engineer Student</h3>
+<h3 align="center">A passionate Software Engineer Student at Chalmers University of Technology</h3>
 
 - 🌱 I’m currently learning **React and Game development mostly in Unity but also Godot**
 
